@@ -1,0 +1,8 @@
+Hacer una función de comienzo, en esa función debería activarse con un botón de start.
+Desplegar todas las preguntas con las opciones de respuestas, al mismo tiempo que corre el timer.
+El usuario deberá escoger la respuesta.
+Al final deberá existir un botón de terminado, donde se registren las respuestas a todas las preguntas que le picó el usuario.
+Deberá existir una variable de correctas y una variable de incorrectas, que se deberán llenar cuando el usuario le pique "Done"
+Cuando le pique done deberá desplegar cuantas correctas y cuántas incorrectas tuvo
+Si se acaba el tiempo, se deberá activar el botón de done (done deberá ser el calculador)
+Después de mostrar los resultados, deberá poder picarle restart y comienza de nuevo.
